@@ -4,6 +4,6 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "lodash": "^4.17.1"
+    "lodash": "^4.17.2"
   }
 }
