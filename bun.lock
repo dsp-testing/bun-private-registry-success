@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "bun-private-registry-success",
+      "devDependencies": {
+        "lodash": "4.17.1",
+      },
+    },
+  },
+  "packages": {
+    "lodash": ["lodash@4.17.1", "https://jfrogghdemo.jfrog.io/artifactory/api/npm/db-dependabot-local/lodash-4.17.1.tgz", {}, "sha512-TU8moLfqGOx1RJogO9uU2d90q0L5J/1g/i4fkdB5ZmQ5qsjwVnCvg5XWuiwqqPNnyBQlQp8ukd9ADTY27dGsiQ=="],
+  }
+}

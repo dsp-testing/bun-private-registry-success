@@ -1,0 +1,9 @@
+{
+  "name": "bun-private-registry-success",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "lodash": "^4.17.1"
+  }
+}
